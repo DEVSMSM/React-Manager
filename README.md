@@ -23,4 +23,4 @@ All Copyright By SmSm
 - Dont Forget Give 🌟 Project And Thank You All
 
 
-- [Link](https://discord.gg/yjsCnwdfGK) My Discord Join For More Sources
+- [Link](https://discord.com/invite/NfbdNNpAea) My Discord Join For More Sources
