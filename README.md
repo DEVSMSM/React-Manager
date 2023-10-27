@@ -15,7 +15,9 @@ All Copyright By SmSm
 - Allow All Intents And Click Reset Token and Add it To Your Project
 - And in ``config.json`` put Token and run project
 - make sure you install packages 👇
-```npm i```
+```
+npm i
+```
 
 # Run on
 <a href="https://glitch.com/edit/#!/simple-music-bot-v14"><img src="https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg" alt="Remix on Glitch" /></a>
